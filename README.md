@@ -84,10 +84,10 @@ with a focus on improving efficiency in drug discovery pipelines.
 ## Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/parash-upreti-9a9309337/">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/parash-upreti">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </a>
 </p>
