@@ -38,7 +38,6 @@ I am actively building skills in molecular modeling, structure-based drug design
 
 ### Cheminformatics & Computational Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/RDKit-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20Babel-%23000000.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AutoDock-%23000000.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Maestro%20(Schrodinger)-%2300599C.svg?style=for-the-badge"/>
