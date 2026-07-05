@@ -3,15 +3,14 @@
 </p>
 
 <h1 align="center">Parash Upreti</h1>
-<h3 align="center">B.Pharm Student | Aspiring M.Pharm (Pharmaceutical Chemistry) | Computational Drug Discovery</h3>
+<h3 align="center">M.Pharm (Pharmaceutical Chemistry) | B.Pharm Graduate </h3>
 
 ---
 
 ## About Me
 
-I am a Bachelor of Pharmacy student at Kumaun University, Nainital, with a focused interest in pharmaceutical chemistry and computational drug discovery. My work is directed towards integrating chemistry with computational tools to accelerate drug design and analysis.
 
-I am actively building skills in molecular modeling, structure-based drug design, and AI-driven approaches for drug discovery.
+B.Pharm student with a growing interest in Computational Drug Discovery, Molecular Docking, and AI-driven CADD workflows. Currently exploring virtual screening, protein-ligand interactions, Python-based automation, and molecular modeling techniques. Passionate about integrating pharmaceutical sciences with computational approaches for modern drug discovery and research.
 
 ---
 
