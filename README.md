@@ -10,7 +10,7 @@
 ## About Me
 
 
-B.Pharm student with a growing interest in Computational Drug Discovery, Molecular Docking, and AI-driven CADD workflows. Currently exploring virtual screening, protein-ligand interactions, Python-based automation, and molecular modeling techniques. Passionate about integrating pharmaceutical sciences with computational approaches for modern drug discovery and research.
+B.Pharm graduate with a growing interest in Computational Drug Discovery, Molecular Docking, and AI-driven CADD workflows. Currently exploring virtual screening, protein-ligand interactions, Python-based automation, and molecular modeling techniques. Passionate about integrating pharmaceutical sciences with computational approaches for modern drug discovery and research.
 
 ---
 
